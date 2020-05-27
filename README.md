@@ -16,4 +16,5 @@ npm run build
 ```
 
 ### Template
-![Image text](https://raw.githubusercontent.com/lvsong77/pixelate_todo/src/assets/template.png)
+![Image text]
+(https://raw.githubusercontent.com/lvsong77/pixelate_todo/master/src/assets/template.png)
