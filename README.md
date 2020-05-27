@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Template
+![Image text](https://raw.githubusercontent.com/lvsong77/pixelate_todo/src/assets/template.png)
